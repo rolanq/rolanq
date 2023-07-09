@@ -18,13 +18,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
-<h3 id="hedaer" align="center">I am a Frontend developer with more than 2 years of experience. I'm currently looking for a job.</h3>
-<div id="badges" align="center">
-  <h3 id="hedaer" align="center">📫 How to reach me:</h3>
-    <a href="https://t.me/rolanou">
-  <img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
-  </a>
-</div>
+<h3 id="hedaer" align="center">I am a Frontend developer with more than 3 years of experience</h3>
 <div id="stack" align="center">
   <div id="header" align="center">
     <h3 id="hedaer" align="center">My stack:</h3>
