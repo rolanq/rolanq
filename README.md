@@ -27,8 +27,8 @@ I enjoy working with modern tech stacks, solving product challenges, and owning 
 
 ## 🛠️ Tech Stack
 
-**React**, **TypeScript**, **Redux Toolkit**, **GraphQL**, **Vite**,  
-**Styled-Components**, **Storybook**, **MetaMask SDK**, **Lexical**, **VKUI**, **SberUI**
+**React**, **TypeScript**, **Redux Toolkit**, **GraphQL**, **Vite**, **Webpack**, **Docker**,
+**Styled-Components**, **Storybook**, **MetaMask SDK**, **Lexical**, **VKUI**, **SberUI**, 
 
 ---
 
