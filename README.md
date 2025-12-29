@@ -11,20 +11,6 @@ I enjoy working with modern tech stacks, solving product challenges, and owning 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Delivery Ekeer](https://github.com/rolanq/delivery-ekeer) — open-source Telegram Mini App
-- In-app food order management
-- Smooth UI, Redux Toolkit, and Telegram WebApp SDK
-- [Launch in Telegram](https://t.me/ekeer_bot)
-
-### 🔹 [OneTouch](https://github.com/rolanq/one-touch) — Telegram Mini App
-- Car listings directly inside Telegram
-- Step-by-step form with fast, mobile-first UI (60 FPS)
-- [Launch in Telegram](https://t.me/Prodaisam_bot)
-
----
-
 ## 🛠️ Tech Stack
 
 **React**, **TypeScript**, **Redux Toolkit**, **GraphQL**, **Vite**, **Webpack**, **Docker**,
@@ -37,9 +23,3 @@ I enjoy working with modern tech stacks, solving product challenges, and owning 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rolan-oyun/)  
 - 📧 [rolan.oyun.job@gmail.com](mailto:rolan.oyun.job@gmail.com)  
 - 🧑‍💻 [GitHub Projects](https://github.com/rolanq?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolanq&layout=compact&theme=default)
