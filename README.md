@@ -9,10 +9,12 @@ Next.js) and Node.js. Experience as a lead developer: onboarding, code reviews, 
 participation in architectural decisions. Developed microservices that generated
 ~$10 millions in revenue for the company. Improved system performance, ensuring
 stable operation under load.
+
 ---
 
 ## 🛠️ Tech Stack
 **TypeScript**, **Next.js**, **React**, **Node.js**, **GraphQL**, **Vite**, **Webpack**, **Docker**
+
 ---
 
 ## 📬 Contact Me
