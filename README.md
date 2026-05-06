@@ -1,23 +1,22 @@
 # 👋 Hi, I'm Rolan Oyun
 
-🎯 **Frontend Developer** | React · TypeScript · GraphQL · Web3 · Mini Apps  
+🎯 **Fullstack** | TypeScript · React · Next.js · Node.js
 📍 5+ years of experience
 
-I build scalable frontend applications with a focus on performance, architecture, and seamless UX.  
-My experience includes platform-level development at **VK** and **Sber**, as well as creating **60 FPS Telegram Mini Apps** from scratch.  
-I enjoy working with modern tech stacks, solving product challenges, and owning features end to end.
-
+Developing backend and frontend solutions for FinTech/Web3 services with an
+audience of up to 1 million users. My primary tech stack includes TypeScript (React,
+Next.js) and Node.js. Experience as a lead developer: onboarding, code reviews, and
+participation in architectural decisions. Developed microservices that generated
+~$10 millions in revenue for the company. Improved system performance, ensuring
+stable operation under load.
 ---
 
 ## 🛠️ Tech Stack
-
-**React**, **TypeScript**, **Redux Toolkit**, **GraphQL**, **Vite**, **Webpack**, **Docker**,
-**Styled-Components**, **Storybook**, **MetaMask SDK**, **Lexical**, **VKUI**, **SberUI**, **Telegram Mini Apps**
-
+**TypeScript**, **Next.js**, **React**, **Node.js**, **GraphQL**, **Vite**, **Webpack**, **Docker**
 ---
 
 ## 📬 Contact Me
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/rolan-oyun/)  
-- 📧 [rolan.oyun.job@gmail.com](mailto:rolan.oyun.job@gmail.com)  
+- 📧 [Telegram](https://t.me/rolan_oyun)
+- 📧 [rolan.oyun.job@gmail.com](mailto:rolan.oyun.job@gmail.com)
 - 🧑‍💻 [GitHub Projects](https://github.com/rolanq?tab=repositories)
